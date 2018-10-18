@@ -1,0 +1,62 @@
+Ship name:
+Ship length: 1
+Ship max speed: 1
+
+Ship name: Generic Ship
+Ship length: 5
+Ship max speed: 10
+
+Ship name:
+Ship length: 1
+Ship max speed: 1
+Number of lasers: 0
+Has hyperdrive?: 0
+Laser color: 0
+
+Ship name: X-wing
+Ship length: 50
+Ship max speed: 13
+Number of lasers: 4
+Has hyperdrive?: 1
+Laser color: 0
+
+Ship name:
+Ship length: 1
+Ship max speed: 1
+Number of turbo lasers: 0
+Turbo laser color: 0
+Fighter capacity: 0
+
+Ship name: Imperial Star Destroyer
+Ship length: 25
+Ship max speed: 1000
+Number of turbo lasers: 100
+Turbo laser color: 2
+Fighter capacity: 250
+
+Added X-wing to New Republic #1
+
+Ship name: X-wing
+Ship length: 50
+Ship max speed: 13
+Added Imperial Star Destroyer to New Republic #1
+
+Ship name: X-wing
+Ship length: 50
+Ship max speed: 13
+Ship name: Imperial Star Destroyer
+Ship length: 25
+Ship max speed: 1000
+Added X-wing to New Republic #1
+
+Ship name: X-wing
+Ship length: 50
+Ship max speed: 13
+Ship name: Imperial Star Destroyer
+Ship length: 25
+Ship max speed: 1000
+Ship name: X-wing
+Ship length: 50
+Ship max speed: 13
+Removed X-wing from New Republic #1
+

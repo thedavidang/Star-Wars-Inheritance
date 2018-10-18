@@ -1,0 +1,7 @@
+﻿  fleet.cpp
+d:\spu snit\spu compsci\csc2431 lab2\csc2431 lab2\fleet.h(41): warning C4018: '<': signed/unsigned mismatch
+d:\spu snit\spu compsci\csc2431 lab2\csc2431 lab2\fleet.cpp(5): warning C4018: '<': signed/unsigned mismatch
+  test.cpp
+d:\spu snit\spu compsci\csc2431 lab2\csc2431 lab2\fleet.h(41): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  CSC2431 Lab2.vcxproj -> D:\SPU Snit\SPU CompSci\CSC2431 Lab2\Debug\CSC2431 Lab2.exe
